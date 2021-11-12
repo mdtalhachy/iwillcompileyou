@@ -4,4 +4,4 @@ haha look at him, he took a compilers class.
 
 #### Compiler Structure 
 
-![A compiler's structure](https://github.com/mdtalhachy/iwillcompileyou/blob/main/images/compilers_2.png =400x400)
+<img src="https://github.com/mdtalhachy/iwillcompileyou/blob/main/images/compilers_2.png" width="700" height="800">
