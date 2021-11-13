@@ -9,3 +9,4 @@ haha look at him, he took a compilers class.
 
 #### Resources
 - [Recursive Descent Parser Using Common LISP](https://www.informatimago.com/develop/lisp/com/informatimago/small-cl-pgms/rdp/rdp.lisp)
+- [Recusrive Descent Parser Using Java](http://www.craftinginterpreters.com/parsing-expressions.html)
