@@ -19,3 +19,4 @@ haha look at him, he took a compilers class.
 - [GitHub: Recursive Descent Parser Using Racket](https://github.com/christinachmielewski/RecursiveDescentParser/blob/main/RecursiveDescentParser.rkt)
 - [GitHub: JSON parser using Guile Scheme](https://github.com/cthom06/guile-json)
 - [Monadic parsing in Scheme](https://github.com/siraben/monadic-parsing)
+- [A Log File Parser in Scheme](https://github.com/kspaans/logread--)
