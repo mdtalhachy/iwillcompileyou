@@ -18,3 +18,4 @@ haha look at him, he took a compilers class.
 - [Paper: Lexer & Parser Generation in Scheme](http://www.ccs.neu.edu/home/shivers/papers/scmparse.pdf)
 - [GitHub: Recursive Descent Parser Using Racket](https://github.com/christinachmielewski/RecursiveDescentParser/blob/main/RecursiveDescentParser.rkt)
 - [GitHub: JSON parser using Guile Scheme](https://github.com/cthom06/guile-json)
+- [Monadic parsing in Scheme](https://github.com/siraben/monadic-parsing)
