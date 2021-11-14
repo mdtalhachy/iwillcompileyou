@@ -21,3 +21,4 @@ haha look at him, he took a compilers class.
 - [Monadic parsing in Scheme](https://github.com/siraben/monadic-parsing)
 - [A Log File Parser in Scheme](https://github.com/kspaans/logread--)
 - [A Scheme Parser](https://github.com/selineyp/SchemeParser)
+- [Scheme Mathematical Expressions Parser](https://github.com/felix-d/Scheme-Parser)
