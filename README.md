@@ -28,3 +28,4 @@ haha look at him, he took a compilers class.
 - [Parser Combinator Using Scheme](https://github.com/joewing/parcom/blob/master/parse.scm)
 - [Basic Parser and Interpreter Using Scheme](https://github.com/MarcosChabolla/Scheme-Basic-Interpreter)
 - [Parser Combinator Using Scheme - Good Code Documentation](https://github.com/croman96/parser-combinator/tree/master/static/scheme)
+- [Lexer Combinator Library Using Scheme](https://github.com/iraikov/chicken-lexgen/blob/master/lexgen.scm)
