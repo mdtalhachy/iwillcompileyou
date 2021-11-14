@@ -27,3 +27,4 @@ haha look at him, he took a compilers class.
 - [Interpreter for Scheme Using Scheme](https://github.com/zxcsvd/CSSE304/blob/master/exam/interpreter.ss)
 - [Parser Combinator Using Scheme](https://github.com/joewing/parcom/blob/master/parse.scm)
 - [Basic Parser and Interpreter Using Scheme](https://github.com/MarcosChabolla/Scheme-Basic-Interpreter)
+- [Parser Combinator Using Scheme - Good Code Documentation](https://github.com/croman96/parser-combinator/tree/master/static/scheme)
