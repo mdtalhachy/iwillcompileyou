@@ -31,3 +31,4 @@ haha look at him, he took a compilers class.
 - [Lexer Combinator Library Using Scheme](https://github.com/iraikov/chicken-lexgen/blob/master/lexgen.scm)
 - [LL(1) Parser Using Scheme](https://github.com/PietropaoloV/LL-1-Parser)
 - [Interpreter for Scheme Using Scheme](https://github.com/mattrwyrick/SchemeInterpreter)
+- [Recursive Descent Parser Using Scheme](https://github.com/rmrt1n/parsers/blob/main/rec-desc.sld)
