@@ -22,3 +22,4 @@ haha look at him, he took a compilers class.
 - [A Log File Parser in Scheme](https://github.com/kspaans/logread--)
 - [A Scheme Parser](https://github.com/selineyp/SchemeParser)
 - [Scheme Mathematical Expressions Parser](https://github.com/felix-d/Scheme-Parser)
+- [Scheme Parser that Returns Max Depth and Number of Statements](https://github.com/nayefc/scheme-parser)
