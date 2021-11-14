@@ -23,3 +23,5 @@ haha look at him, he took a compilers class.
 - [A Scheme Parser](https://github.com/selineyp/SchemeParser)
 - [Scheme Mathematical Expressions Parser](https://github.com/felix-d/Scheme-Parser)
 - [Scheme Parser that Returns Max Depth and Number of Statements](https://github.com/nayefc/scheme-parser)
+- [Parser for Scheme Expression Using Scheme](https://github.com/zxcsvd/CSSE304/blob/master/exam/parse.ss)
+- [Interpreter for Scheme Using Scheme](https://github.com/zxcsvd/CSSE304/blob/master/exam/interpreter.ss)
