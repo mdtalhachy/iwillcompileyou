@@ -20,3 +20,4 @@ haha look at him, he took a compilers class.
 - [GitHub: JSON parser using Guile Scheme](https://github.com/cthom06/guile-json)
 - [Monadic parsing in Scheme](https://github.com/siraben/monadic-parsing)
 - [A Log File Parser in Scheme](https://github.com/kspaans/logread--)
+- [A Scheme Parser](https://github.com/selineyp/SchemeParser)
