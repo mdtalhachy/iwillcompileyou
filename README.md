@@ -34,3 +34,4 @@ haha look at him, he took a compilers class.
 - [Recursive Descent Parser Using Scheme](https://github.com/rmrt1n/parsers/blob/main/rec-desc.sld)
 - [An Exploration of Parsing Techniques & IMPORTANT Resources](https://github.com/rmrt1n/parsers)
 - [Complete Compiler in Scheme](https://github.com/yaishori/COMPILER)
+- [Parsing Subtitles Using Scheme](https://github.com/fadein/filthyfilter)
