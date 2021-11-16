@@ -35,3 +35,12 @@ haha look at him, he took a compilers class.
 - [An Exploration of Parsing Techniques & IMPORTANT Resources](https://github.com/rmrt1n/parsers)
 - [Complete Compiler in Scheme](https://github.com/yaishori/COMPILER)
 - [Parsing Subtitles Using Scheme](https://github.com/fadein/filthyfilter)
+
+
+#### Compiler Courses
+- [Udacity => Compilers: Theory & Practice](https://classroom.udacity.com/courses/ud168)
+- [Edx => Compilers](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+2T2020/home)
+
+
+#### Articles: Compilers Topics
+- [Context Free Grammars](https://craftinginterpreters.com/representing-code.html)
