@@ -44,3 +44,4 @@ haha look at him, he took a compilers class.
 
 #### Articles: Compilers Topics
 - [Context Free Grammars](https://craftinginterpreters.com/representing-code.html)
+- [How to learn Compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
